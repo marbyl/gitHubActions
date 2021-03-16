@@ -21,3 +21,4 @@ class Album(Base):
     descripcion = Column(String)
     medio = Column(Enum(Medio))
     canciones = relationship('Cancion', secondary='album_cancion')
+    
