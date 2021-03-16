@@ -216,4 +216,4 @@ class Coleccion():
         return interpretes
 
     def buscar_la_salida(self):
-        return True
+        return "No hay salida"
