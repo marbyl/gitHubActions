@@ -217,4 +217,4 @@ class Coleccion():
 
     def buscar_la_salida(self):
         EsteSiEsELDefinitivo = True
-        return "Trantando de encontrar el destino final"
+        return "Trantando de encontrar el destino final 1106"
