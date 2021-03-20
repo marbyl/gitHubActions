@@ -216,4 +216,4 @@ class Coleccion():
         return interpretes
 
     def buscar_la_salida(self):
-        return "No hay salida al parecer todo está truncado"
+        return "Trantando de encontrar el destino final"
