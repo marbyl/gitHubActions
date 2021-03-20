@@ -12,7 +12,7 @@ on:
       - unlocked
     tags:
       - 'v*'
-    branches: [ main ]
+    branches: [ master ]
 jobs:
   job-test:
     name: Pruebas
