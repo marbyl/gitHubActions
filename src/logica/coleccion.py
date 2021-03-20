@@ -216,5 +216,5 @@ class Coleccion():
         return interpretes
 
     def buscar_la_salida(self):
-        contigoTodoCambia = True
+        EsteSiEsELDefinitivo = True
         return "Trantando de encontrar el destino final"
